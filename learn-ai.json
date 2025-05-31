@@ -8,6 +8,7 @@
     "3-python-basics": "yes",
     "2-math-for-ai": "yes",
     "4-data-preprocessing": "yes",
-    "7-deep-learning": "yes"
+    "7-deep-learning": "yes",
+    "6-neural-networks": "yes"
   }
 }
