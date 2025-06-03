@@ -10,6 +10,7 @@
     "4-data-preprocessing": "yes",
     "7-deep-learning": "yes",
     "6-neural-networks": "yes",
-    "5-machine-learning-basics": "yes"
+    "5-machine-learning-basics": "yes",
+    "8-computer-vision": "yes"
   }
 }
