@@ -8,6 +8,7 @@
     "2-math-for-ai": "no",
     "1-intro-to-ai": "no",
     "6-neural-networks": "yes",
-    "3-python-basics": "no"
+    "3-python-basics": "no",
+    "1-ai-fundamentals": "yes"
   }
 }
