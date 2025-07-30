@@ -4,6 +4,7 @@
     "repo": "learn-ai-progress"
   },
   "lessonsCompleted": {
-    "1.1-vector-spaces": "yes"
+    "1.1-vector-spaces": "yes",
+    "1.2-matrix-operations": "yes"
   }
 }
