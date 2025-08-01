@@ -7,6 +7,7 @@
     "1.1-vector-spaces": "yes",
     "1.2-matrix-operations": "yes",
     "2.1-python-fundamentals": "no",
-    "1.1-linear-algebra": "yes"
+    "1.1-linear-algebra": "yes",
+    "1.2-calculus-optimization": "yes"
   }
 }
