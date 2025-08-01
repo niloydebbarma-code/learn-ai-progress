@@ -4,6 +4,7 @@
     "repo": "learn-ai-progress"
   },
   "completed": {
-    "1.1.2-matrix-fundamentals": true
+    "1.1.2-matrix-fundamentals": true,
+    "2.1.1-python-syntax-data-types": true
   }
 }
