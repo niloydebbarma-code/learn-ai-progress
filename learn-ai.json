@@ -3,5 +3,7 @@
     "githubUsername": "niloydebbarma-code",
     "repo": "learn-ai-progress"
   },
-  "completed": {}
+  "completed": {
+    "1.1.2-matrix-fundamentals": true
+  }
 }
